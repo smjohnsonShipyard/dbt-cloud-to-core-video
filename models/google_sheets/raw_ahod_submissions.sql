@@ -1,0 +1,1 @@
+SELECT * FROM `shipyard-demos.google_sheets.newsletter_submission`
